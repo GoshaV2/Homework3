@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         //1
+        System.out.println("Задание 1");
         {
             int var1=231;
             byte var2=127;
@@ -16,6 +17,7 @@ public class Main {
             System.out.println("Значение переменной var6 с типом double равно "+var6);
         }
         //2
+        System.out.println("Задание 2");
         {
             float var1=27.12f;
             long var2=987_678_965_549l;
@@ -27,6 +29,7 @@ public class Main {
             byte var8=67;
         }
         //3
+        System.out.println("Задание 3");
         {
             int studentCount1=23;
             int studentCount2=27;
@@ -35,6 +38,7 @@ public class Main {
             System.out.println("На каждого ученика рассчитано "+ pages/(studentCount1+studentCount2+studentCount3) +" листов бумаги");
         }
         //4
+        System.out.println("Задание 4");
         {
             int speedPerTwoMin=16;
             int speedPerMin=speedPerTwoMin/2;
@@ -44,6 +48,7 @@ public class Main {
             System.out.println("За 1 месяц машина произвела бутылок "+speedPerMin*60*24*31+" штук");
         }
         //5
+        System.out.println("Задание 5");
         {
             int allTinForSchool=120;
             int whiteTinPerRoom=2;
@@ -53,6 +58,7 @@ public class Main {
 
         }
         //6
+        System.out.println("Задание 6");
         {
             int bananaCount=5;
             int milkCount=2;
@@ -68,6 +74,7 @@ public class Main {
             System.out.println("Вес питания в килограммах "+weightKg);
         }
         //7
+        System.out.println("Задание 7");
         {
             int lossWeight1=250;
             int lossWeight2=500;
@@ -77,6 +84,7 @@ public class Main {
             System.out.println("Среднее количество дней: "+(float)weight*1000/((lossWeight2+lossWeight1)/2));
         }
         //8
+        System.out.println("Задание 8");
         {
             int MashaSalary=67_760;
             int DenisSalary=83_690;
